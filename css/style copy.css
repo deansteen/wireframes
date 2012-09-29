@@ -1,0 +1,413 @@
+
+#brand {
+	padding:40px 0 20px; 
+}
+#brand h1 {
+	float:left;
+}
+#brand h2 {
+	color: #999999;
+    float: left;
+    font-size: 24px;
+    font-weight: normal;
+    line-height: 1;
+    margin: 23px 0 0 10px;
+}
+
+#google_translate_element {
+    float: right;
+}
+#header-nav {
+	margin-right: -20px;
+    margin-top: -150px;
+}
+#header-alt-nav {
+	margin-top:-157px;	
+	margin-right:-37px;
+}
+#header-nav li a {
+	padding: 0 0 0 20px;
+}
+.navbar .btn-text { 
+	float:left;
+	padding: 10px 0;
+	color: #555555;
+    text-decoration: none;
+    text-shadow: 0 1px 0 #FFFFFF;
+	font-weight: bold;
+	cursor:pointer;
+}
+.navbar-search {
+	margin: -100px -20px 0 0;	
+}
+.fpo {
+	background:#f5f5f5;
+	margin-bottom:20px;
+	padding:20px;
+}
+.fpo.map {
+	border: 1px solid #E3E3E3;
+    border-radius: 5px 5px 5px 5px;
+	height:540px;	
+}
+.fpo.thumbnail {
+	width:120px;
+	height:80px;
+    -moz-transition: all 0.2s ease-in-out 0s;
+    border: none;
+    border-radius: 0;
+    box-shadow: 0;
+    display: block;
+    line-height:inherit;
+}
+ul.postmetadata {
+    list-style: none outside none;
+    margin-left: 0;	
+}
+#myCarousel .fpo {
+	height:260px;
+	margin-bottom:0;
+}
+#trip-planner{
+	height:262px;	
+}
+#trip-planner input, #trip-planner textarea {
+		
+}
+.footer {
+    background-color: #F5F5F5;
+    border-top: 1px solid #E5E5E5;
+    margin-top: 70px;
+    padding: 30px 0 20px;
+}
+.accordion-inner {
+	border-top:0;	
+	float:left;	
+	padding-top:0;
+}
+.alert-pane .accordion-heading {
+	overflow: auto;
+    padding: 8px 15px 0;
+}
+.alert-pane {
+	background-color: #F2DEDE;
+	border-radius:5px;
+    color: #B94A48;	
+}
+.alert-pane a {
+	color: #B94A48;	
+}
+.alert-pane .accordion-heading .accordion-toggle {
+	color: #B94A48;	
+	padding:0;
+}
+.alert-pane .collapse {
+	float:left;
+	clear: both;
+}
+.alert-pane .accordion-group {
+    border-color: #EED3D7;
+	overflow: auto;
+}
+.alert-item {
+	clear: both;
+    display: block;
+    float: left;
+    margin-bottom: 10px;
+}
+.carousel {
+    border: 1px solid #E3E3E3;
+    border-radius: 5px 5px 5px 5px;
+	margin-bottom:0;
+}
+.carousel-caption {
+	display:none;
+}
+.carousel-control {
+	display:none;
+}
+#trip-planner .form-horizontal .control-label {
+	width:auto;
+}
+#trip-planner .form-horizontal .controls {
+    margin-left: 36px;
+}
+#trip-planner .checkbox {
+	margin-bottom: 20px;	
+}
+#trip-planner #departure-time select {
+	width:auto;
+	height:auto;	
+	
+}
+#trip-planner #departure-time input {
+		
+}
+#trip-planner {
+	
+}
+.navbar .nav.pull-right {
+    margin-right:0;
+	margin-left:10px;
+}
+.startEndLocation label{
+	background: none repeat scroll 0 0 #CCCCCC;
+    border-radius: 16px 16px 16px 16px;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 4px 10px;
+}
+.span3 li {
+	margin-bottom:10px;	
+}
+.row-promo {
+    margin-top: 20px;
+}
+.row-news {
+}
+.row-news ul li{
+	
+}
+.footer-blocks {
+	margin-bottom:70px;	
+}
+ul.networks {
+	margin-top:5px;	
+}
+ul.networks li {
+	margin-bottom:10px;	
+}
+[class^="icon-social-"], [class*=" icon-social-"] {
+	background-image: url("../img/glyphicons-social.png");
+    background-position: 24px 24px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 24px;
+    line-height: 24px;
+    margin-top: -3px;
+    vertical-align: text-top;
+    width: 24px;
+}
+.icon-social-twitter {
+	background-position: -157px -157px;
+}
+.icon-social-facebook {
+	background-position: -61px -157px;
+}
+.icon-social-rss {
+	background-position: -397px -157px;
+}
+.icon-social-email {
+	background-position: -493px -205px;
+}
+.icon-social-youtube {
+	background-position: -157px -109px;
+}
+[class^="icon-large-"], [class*=" icon-large-"] {
+    background-image: url("../img/glyphicons-large.png");
+    background-position: 24px 24px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 26px;
+    line-height: 24px;
+    margin-top: -4px;
+    vertical-align: text-top;
+    width: 26px;
+}
+.icon-large-download {
+    background-position: -492px -1118px;
+}
+
+[class^="icon-xlarge-"], [class*=" icon-xlarge-"] {
+	background-image: url("../img/glyphicons-xlarge.png");
+    background-position: 24px 24px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 50px;
+    line-height: 24px;
+    margin-top: -3px;
+    vertical-align: text-top;
+    width: 50px;
+}
+.icon-xlarge-download {
+	background-position: -110px -210px;
+}
+
+.page-header-tabs {
+    margin: 20px 0;
+}
+ul.long-item-list-block {
+		
+}
+ul.long-item-list-block li {
+	padding:0 0 14px;	
+}
+.span4 .widget {
+	 display:block;
+	 float:left;
+}
+span.pipe {
+	color: #ccc;
+    padding: 0 7px;	
+}
+.social {
+	text-align:center;
+}
+.sidebar-nav {
+	background-color: #FFFFFF;
+    border-radius: 6px 6px 6px 6px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.067);
+    margin: 10px 0 0;
+    padding: 0;
+}
+.sidebar-nav > li > a {
+    border: 1px solid #E5E5E5;
+    display: block;
+    margin: 0 0 -1px;
+    padding: 8px 14px;
+}
+.sidebar-nav > li:first-child > a {
+    border-radius: 6px 6px 0 0;
+}
+.sidebar-nav > li:last-child > a {
+    border-radius: 0 0 6px 6px;
+}
+.sidebar-nav > .active > a {
+    border: 0 none;
+    box-shadow: 1px 0 0 rgba(0, 0, 0, 0.1) inset, -1px 0 0 rgba(0, 0, 0, 0.1) inset;
+    padding: 9px 15px;
+    position: relative;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15);
+    z-index: 2;
+}
+.sidebar-nav .icon-chevron-right {
+    float: right;
+    margin-right: -6px;
+    margin-top: 2px;
+    opacity: 0.25;
+}
+.sidebar-nav > li > a:hover {
+    background-color: #F5F5F5;
+}
+.sidebar-nav a:hover .icon-chevron-right {
+    opacity: 0.5;
+}
+.sidebar-nav .active .icon-chevron-right, .sidebar-nav .active a:hover .icon-chevron-right {
+    background-image: url("../img/glyphicons-halflings-white.png");
+    opacity: 1;
+}
+.sidebar-nav.affix {
+	top:40px;
+}
+.sidebar-nav.affix-bottom {
+    bottom: 270px;
+    position: absolute;
+    top: auto;
+}
+.span3 ul.sidebar-nav li {
+	margin:0;	
+}
+.nav.nav-tabs > .active > a > [class^="icon-"], .nav.nav-tabs > .active > a > [class*=" icon-"] {
+    background-image: url("../img/glyphicons-halflings.png");
+}
+.row-fluid:after {
+    margin-bottom: 20px;
+}
+.no-bottom-margin:after {
+    margin-bottom: 0;
+}
+.btn-large [class^="icon-"] {
+    margin-top: 3px;
+}
+ul.nav li.dropdown:hover ul.dropdown-menu{
+    display: block;    
+}
+
+
+ /* Desktop and above */
+@media (min-width: 979px) {
+	.navbar .btn-text {
+		display:none;	
+	}
+}
+
+ /* Tablets and under */
+@media (max-width: 979px) {
+	
+	#brand h2 {
+		margin: 0;
+		float:none;	
+		display:block;
+		clear:both;
+	}
+	#header-nav, #header-alt-nav  {
+		margin-top: 0;
+	}
+	#header-nav li a, #header-alt-nav li a {
+		padding: 10px 15px;
+	}
+	.navbar-search .search-query{
+		width:190px;
+	}
+	.nav-collapse .nav {
+		float: none;
+		margin: 0 0 0;
+	}
+	.navbar .btn-text {
+	  display:block;
+	}
+	#google_translate_element {
+		float:none;
+    	margin-right:0;
+    	margin-top:0;	
+		margin-left:15px;
+		margin-bottom:20px;
+		z-index:20;
+	}
+}
+
+ /* Phones and under */
+@media (max-width: 480px) {
+	
+	#brand h1 {
+		float:none;
+	}
+	#brand h2 {
+		font-size:16px;	
+		margin: 0;
+		float:none;	
+	}
+	#brand {
+		padding: 10px 0 20px;
+	}
+	
+	#trip-planner{
+		height:auto;	
+	}
+	#trip-planner #departure-time select {
+		width:210px;	
+	}
+	#trip-planner .form-horizontal .controls {
+		margin-left:0;	
+	}
+	
+	#trip-planner input, #trip-planner textarea {
+		width:140px;
+	}
+	#trip-planner .form-horizontal .control-label {
+		width: 6px;
+	}
+	#myCarousel .fpo {
+		height:120px;	
+	}
+}
+ /* Superwide */
+@media (min-width: 1200px) {
+	.navbar-search {
+		margin: -60px -326px 0 0;
+	}
+	#header-nav {
+		margin-right: -327px;
+		margin-top: -110px;
+	}
+}
